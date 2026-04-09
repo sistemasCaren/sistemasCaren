@@ -6,7 +6,7 @@
 
 ### 🚀 Empresa de repuestos líder en el mercado.
 
-Caren es una empresa líder en el mercado con 47 años de trayectoria en partes y repuestos de camiones, remolques y buses.
+Somos una empresa líder en el mercado con 47 años de trayectoria en partes y repuestos de camiones, remolques y buses.
 
 ---
 
@@ -24,17 +24,17 @@ Caren es una empresa líder en el mercado con 47 años de trayectoria en partes 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=nord" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sistemasCaren&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sistemasCaren&layout=compact&theme=nord" />
 </p>
 
 ---
 
 ### 📂 Proyectos Destacados
 
-* **[Sistema de Gestión Cloud](https://github.com/[TU_USUARIO]/repo1):** Arquitectura de microservicios desplegada en AWS con balanceo de carga.
-* **[Portal Web Corporativo](https://github.com/[TU_USUARIO]/repo2):** Aplicación SPA con Angular y optimización SEO.
-* **[Automated CI/CD Pipeline](https://github.com/[TU_USUARIO]/repo3):** Templates de GitHub Actions para despliegues automáticos en Docker.
+* **[Sistema de Gestión Cloud](https://github.com/sistemasCaren/repo1):** Arquitectura de microservicios desplegada en AWS con balanceo de carga.
+* **[Portal Web Corporativo](https://github.com/sistemasCaren/repo2):** Aplicación SPA con Angular y optimización SEO.
+* **[Automated CI/CD Pipeline](https://github.com/sistemasCaren/repo3):** Templates de GitHub Actions para despliegues automáticos en Docker.
 
 ---
 
