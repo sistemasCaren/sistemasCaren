@@ -31,7 +31,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 
 ### 📂 Proyectos Destacados
 
-* **[Portal Web Corporativo](https://github.com/sistemasCaren/caren-portal-angular):** Aplicación SPA con Angular y optimización SEO.
+* **[Portal Web Corporativo](https://github.com/sistemasCaren/caren-portal-angular) :** Aplicación SPA con Angular y optimización SEO.
 
 ---
 
