@@ -41,7 +41,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 ### 📫 Contacto & Redes
 
 <p align="left">
-<a href="mailto:tu-email@dominio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/tu-perfil" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://tu-web-personal.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+<a href="mailto:tu-sistemas@caren.cl" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/company/caren-repuestos-flotacentro/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.caren.cl" target="blank"><img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
