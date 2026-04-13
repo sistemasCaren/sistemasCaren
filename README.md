@@ -29,12 +29,12 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 |                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-portal-qa-->`V7-qa`<!--/version-portal-qa-->|
 | **Intranet Apigateway** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-gateway-prod-->`v8`<!--/version-gateway-prod-->|
 |                         | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-gateway-qa-->`V3-qa`<!--/version-gateway-qa-->|
-| **MS Autenticación** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-auth-prod-->`v1.0.0`<!--/version-auth-prod-->|
+| **MS Autenticación** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-auth-prod-->`v5`<!--/version-auth-prod-->|
 |                      | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=develop) | <!--version-auth-qa-->`V9-qa`<!--/version-auth-qa-->|
 | **MS Permisos** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-permisos/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-permisos-prod-->`v2`<!--/version-permisos-prod-->|
 |                 | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-permisos/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-permisos-qa-->`V3-qa`<!--/version-permisos-qa-->|
-| **MS Formularios** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.5` |
-|                    | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=develop) | `V22-qa` |
+| **MS Formularios** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-formularios-prod-->`v1`<!--/version-formularios-prod-->|
+|                    | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-formularios-qa-->`V22-qa`<!--/version-formularios-qa-->|
 | **MS Sap** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.5` |
 |            | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=develop) | `V22-qa` |
 | **MS Visitas Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.5` |
