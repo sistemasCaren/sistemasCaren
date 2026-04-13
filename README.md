@@ -29,6 +29,19 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 
 ---
 
+### 🚀 Estado de la Infraestructura (Sistemas Caren)
+
+| Servicio | Ambiente | Estado (CI/CD) | Versión |
+| :--- | :--- | :--- | :--- |
+| **Portal Web** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/portal-web/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.2` |
+| | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/portal-web/actions/workflows/deploy.yml/badge.svg?branch=develop) | `V15-qa` |
+| **MS Autenticación** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.0` |
+| | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=develop) | `V8-qa` |
+| **MS Formularios** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.5` |
+| | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=develop) | `V22-qa` |
+
+---
+
 ### 📂 Proyectos Destacados
 
 * **[Portal Web Corporativo](https://github.com/sistemasCaren/caren-portal-angular) :** Aplicación SPA con Angular y optimización SEO.
