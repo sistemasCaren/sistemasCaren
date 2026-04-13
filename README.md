@@ -21,20 +21,12 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 
 ---
 
-### 🚀 Estado de los Servicios
-| Ambiente | Estado | Versión |
-| :--- | :--- | :--- |
-| **Producción** | ![Deploy](https://img.shields.io/badge/Status-Live-success) | `v1.0.0` |
-| **QA / Staging** | ![Deploy](https://img.shields.io/badge/Status-Testing-yellow) | `v1.1.0-rc` |
-
----
-
 ### 🚀 Estado de la Infraestructura (Sistemas Caren)
 
 | Servicio | Ambiente | Estado (CI/CD) | Versión |
 | :--- | :--- | :--- | :--- |
-| **Portal Web** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/portal-web/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.2` |
-| | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/portal-web/actions/workflows/deploy.yml/badge.svg?branch=develop) | `V15-qa` |
+| **Portal Web** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.2` |
+| | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCarencaren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=develop) | `V15-qa` |
 | **MS Autenticación** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.0` |
 | | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=develop) | `V8-qa` |
 | **MS Formularios** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=main) | `v1.0.5` |
