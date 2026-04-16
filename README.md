@@ -38,7 +38,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 | **MS Sap** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-sap-prod-->`v4`<!--/version-sap-prod-->|
 |            | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-sap-qa-->`1.0.4`<!--/version-sap-qa-->|
 | **MS Visitas Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-visitas-prod-->`v3`<!--/version-visitas-prod-->|
-|                      | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-visitas-qa-->`V3-qa`<!--/version-visitas-qa-->|
+|                      | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-visitas-qa-->`1.0.4`<!--/version-visitas-qa-->|
 
 ---
 
