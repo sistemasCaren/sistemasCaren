@@ -25,7 +25,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 
 | Servicio | Ambiente | Estado (CI/CD) | Versión |
 | :--- | :--- | :--- | :--- |
-| **Portal Web** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-portal-prod-->`1.0.1`<!--/version-portal-prod-->|
+| **Portal Web** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-portal-prod-->`1.1.0`<!--/version-portal-prod-->|
 |                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-portal-qa-->`1.0.12`<!--/version-portal-qa-->|
 | **Intranet Apigateway** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-gateway-prod-->`v8`<!--/version-gateway-prod-->|
 |                         | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-gateway-qa-->`1.0.6`<!--/version-gateway-qa-->|
