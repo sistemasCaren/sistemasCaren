@@ -35,7 +35,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 |                 | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-permisos/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-permisos-qa-->`1.0.10`<!--/version-permisos-qa-->|
 | **MS Formularios** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-formularios-prod-->`1.1.2`<!--/version-formularios-prod-->|
 |                    | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-formularios-qa-->`1.0.21`<!--/version-formularios-qa-->|
-| **MS Sap** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-sap-prod-->`v4`<!--/version-sap-prod-->|
+| **MS Sap** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-sap-prod-->`1.0.0`<!--/version-sap-prod-->|
 |            | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-sap-qa-->`1.0.7`<!--/version-sap-qa-->|
 | **MS Visitas Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-visitas-prod-->`1.0.0`<!--/version-visitas-prod-->|
 |                      | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-visitas-qa-->`1.0.6`<!--/version-visitas-qa-->|
