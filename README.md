@@ -38,7 +38,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 | **MS Sap** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-sap-prod-->`1.0.0`<!--/version-sap-prod-->|
 |            | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-sap-qa-->`1.0.7`<!--/version-sap-qa-->|
 | **MS Visitas Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-visitas-prod-->`1.0.0`<!--/version-visitas-prod-->|
-|                      | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-visitas-qa-->`1.0.6`<!--/version-visitas-qa-->|
+|                      | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-visitas-qa-->`1.0.8`<!--/version-visitas-qa-->|
 | **MS Solicitudes Contables** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-solicitudes-contables/actions/workflows/ms-solicitudes-contables.yml/badge.svg?branch=main) | <!--version-solicitudes-contables-prod-->`1.0.1`<!--/version-solicitudes-contables-prod-->|
 |                            |🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-solicitudes-contables/actions/workflows/ms-solicitudes-contables.yml/badge.svg?branch=develop&refresh=true) | <!--version-solicitudes-contables-qa-->`1.0.14`<!--/version-solicitudes-contables-qa-->|
 
