@@ -27,7 +27,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 | :--- | :--- | :--- | :--- |
 | **Portal Web** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-portal-prod-->`1.1.7`<!--/version-portal-prod-->|
 |                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-portal-qa-->`1.0.46`<!--/version-portal-qa-->|
-| **Intranet Apigateway** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-gateway-prod-->`1.0.17`<!--/version-gateway-prod-->|
+| **Intranet Apigateway** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-gateway-prod-->`1.0.18`<!--/version-gateway-prod-->|
 |                         | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-gateway-qa-->`1.0.43`<!--/version-gateway-qa-->|
 | **MS Autenticación** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-auth-prod-->`1.0.1`<!--/version-auth-prod-->|
 |                      | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=develop) | <!--version-auth-qa-->`1.0.16`<!--/version-auth-qa-->|
