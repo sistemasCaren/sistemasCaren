@@ -32,7 +32,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 | **MS Autenticación** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-auth-prod-->`1.0.3`<!--/version-auth-prod-->|
 |                      | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-autenticacion/actions/workflows/deploy.yml/badge.svg?branch=develop) | <!--version-auth-qa-->`1.0.23`<!--/version-auth-qa-->|
 | **MS Permisos** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-permisos/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-permisos-prod-->`1.0.1`<!--/version-permisos-prod-->|
-|                 | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-permisos/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-permisos-qa-->`1.0.10`<!--/version-permisos-qa-->|
+|                 | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-permisos/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-permisos-qa-->`1.0.12`<!--/version-permisos-qa-->|
 | **MS Formularios** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-formularios-prod-->`1.1.5`<!--/version-formularios-prod-->|
 |                    | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-formularios/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-formularios-qa-->`1.0.25`<!--/version-formularios-qa-->|
 | **MS Sap** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-sap/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-sap-prod-->`1.0.0`<!--/version-sap-prod-->|
