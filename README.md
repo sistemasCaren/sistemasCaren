@@ -43,8 +43,8 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 |                            |🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-solicitudes-contables/actions/workflows/ms-solicitudes-contables.yml/badge.svg?branch=develop&refresh=true) | <!--version-solicitudes-contables-qa-->`1.0.28`<!--/version-solicitudes-contables-qa-->|
 | **Portal Intranet Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/portal-intranet-angular/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-portal-intranet-angular-prod-->`1.0.0`<!--/version-portal-intranet-angular-prod-->|
 |                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/portal-intranet-angular/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-portal-intranet-angular-qa-->`1.0.2`<!--/version-portal-intranet-angular-qa-->|
-| **MS Intranet Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-IntranetCaren/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-ms-IntranetCaren-prod-->`1.0.0`<!--/version-ms-IntranetCaren-prod-->|
-|                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-IntranetCaren/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-ms-IntranetCaren-qa-->`1.0.2`<!--/version-ms-IntranetCaren-qa-->|
+| **MS Intranet Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-IntranetCaren/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-ms-IntranetCaren-prod-->`v1`<!--/version-ms-IntranetCaren-prod-->|
+|                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-IntranetCaren/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-ms-IntranetCaren-qa-->`v1`<!--/version-ms-IntranetCaren-qa-->|
 
 ---
 
