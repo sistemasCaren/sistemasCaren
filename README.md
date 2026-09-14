@@ -41,8 +41,8 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 |                      | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-visitas-caren/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-visitas-qa-->`1.0.9`<!--/version-visitas-qa-->|
 | **MS Solicitudes Contables** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-solicitudes-contables/actions/workflows/ms-solicitudes-contables.yml/badge.svg?branch=main) | <!--version-solicitudes-contables-prod-->`1.0.4`<!--/version-solicitudes-contables-prod-->|
 |                            |🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-solicitudes-contables/actions/workflows/ms-solicitudes-contables.yml/badge.svg?branch=develop&refresh=true) | <!--version-solicitudes-contables-qa-->`1.0.28`<!--/version-solicitudes-contables-qa-->|
-| **Portal Intranet Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-caren-portal-angular-prod-->`1.1.10`<!--/version-caren-portal-angular-prod-->|
-|                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-caren-portal-angular-qa-->`1.0.67`<!--/version-caren-portal-angular-qa-->|
+| **Portal Intranet Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-caren-portal-angular-prod-->`v1`<!--/version-caren-portal-angular-prod-->|
+|                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-caren-portal-angular-qa-->`v1`<!--/version-caren-portal-angular-qa-->|
 
 ---
 
