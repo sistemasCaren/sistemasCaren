@@ -46,7 +46,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 | **MS Intranet Caren** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-IntranetCaren/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-ms-IntranetCaren-prod-->`1.0.0`<!--/version-ms-IntranetCaren-prod-->|
 |                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-IntranetCaren/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-ms-IntranetCaren-qa-->`1.0.1`<!--/version-ms-IntranetCaren-qa-->|
 | **Intranet Api Gateway** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/intranet-api-gateway/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-intranet-api-gateway-prod-->`v1`<!--/version-intranet-api-gateway-prod-->|
-|                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/intranet-api-gateway/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-intranet-api-gateway-qa-->`v1`<!--/version-intranet-api-gateway-qa-->|
+|                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/intranet-api-gateway/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-intranet-api-gateway-qa-->`1.0.1`<!--/version-intranet-api-gateway-qa-->|
 
 ---
 
