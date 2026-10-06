@@ -48,7 +48,7 @@ Somos una empresa líder en el mercado con 47 años de trayectoria en partes y r
 | **Intranet Api Gateway** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/intranet-api-gateway/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-intranet-api-gateway-prod-->`1.0.0`<!--/version-intranet-api-gateway-prod-->|
 |                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/intranet-api-gateway/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-intranet-api-gateway-qa-->`1.0.3`<!--/version-intranet-api-gateway-qa-->|
 | **MS Firma Documentos** | 🟢 Producción | ![Deploy](https://github.com/sistemasCaren/ms-firma-documentos/actions/workflows/deploy.yml/badge.svg?branch=main) |<!--version-ms-firma-documentos-prod-->`1.0.0`<!--/version-ms-firma-documentos-prod-->|
-|                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-firma-documentos/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-ms-firma-documentos-qa-->`1.0.2`<!--/version-ms-firma-documentos-qa-->|
+|                | 🧪 QA / Staging | ![Deploy](https://github.com/sistemasCaren/ms-firma-documentos/actions/workflows/deploy.yml/badge.svg?branch=develop) |<!--version-ms-firma-documentos-qa-->`1.0.3`<!--/version-ms-firma-documentos-qa-->|
 
 ---
 
