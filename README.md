@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.caren.cl" target="_blank"><img src="https://img.shields.io/badge/caren.cl-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio web" /></a>
   <a href="https://www.linkedin.com/company/caren-repuestos-flotacentro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tu-sistemas@caren.cl"><img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <a href="mailto:sistemas@caren.cl"><img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
 </p>
 
 <br/>
