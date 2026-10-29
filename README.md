@@ -45,7 +45,7 @@
 
 | Servicio | 🟢 Producción | 🧪 QA / Staging |
 | :--- | :---: | :---: |
-| [**Portal Sistemas Caren**](https://github.com/sistemasCaren/caren-portal-angular) | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=main)<br/><!--version-portal-prod-->`1.1.16`<!--/version-portal-prod--> | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=develop)<br/><!--version-portal-qa-->`1.0.86`<!--/version-portal-qa--> |
+| [**Portal Sistemas Caren**](https://github.com/sistemasCaren/caren-portal-angular) | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=main)<br/><!--version-portal-prod-->`1.1.16`<!--/version-portal-prod--> | ![Deploy](https://github.com/sistemasCaren/caren-portal-angular/actions/workflows/deploy.yml/badge.svg?branch=develop)<br/><!--version-portal-qa-->`1.0.88`<!--/version-portal-qa--> |
 | [**Portal Intranet Caren**](https://github.com/sistemasCaren/portal-intranet-angular) | ![Deploy](https://github.com/sistemasCaren/portal-intranet-angular/actions/workflows/deploy.yml/badge.svg?branch=main)<br/><!--version-portal-intranet-angular-prod-->`1.0.5`<!--/version-portal-intranet-angular-prod--> | ![Deploy](https://github.com/sistemasCaren/portal-intranet-angular/actions/workflows/deploy.yml/badge.svg?branch=develop)<br/><!--version-portal-intranet-angular-qa-->`1.0.4`<!--/version-portal-intranet-angular-qa--> |
 
 ### 🔀 API Gateways
