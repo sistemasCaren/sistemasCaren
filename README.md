@@ -52,7 +52,7 @@
 
 | Servicio | 🟢 Producción | 🧪 QA / Staging |
 | :--- | :---: | :---: |
-| [**Apigateway Sistemas Caren**](https://github.com/sistemasCaren/intranet-caren-apigateway) | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=main)<br/><!--version-gateway-prod-->`1.1.5`<!--/version-gateway-prod--> | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=develop)<br/><!--version-gateway-qa-->`1.0.67`<!--/version-gateway-qa--> |
+| [**Apigateway Sistemas Caren**](https://github.com/sistemasCaren/intranet-caren-apigateway) | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=main)<br/><!--version-gateway-prod-->`1.1.5`<!--/version-gateway-prod--> | ![Deploy](https://github.com/sistemasCaren/intranet-caren-apigateway/actions/workflows/deploy.yml/badge.svg?branch=develop)<br/><!--version-gateway-qa-->`1.0.69`<!--/version-gateway-qa--> |
 | [**Intranet Api Gateway**](https://github.com/sistemasCaren/intranet-api-gateway) | ![Deploy](https://github.com/sistemasCaren/intranet-api-gateway/actions/workflows/deploy.yml/badge.svg?branch=main)<br/><!--version-intranet-api-gateway-prod-->`1.0.0`<!--/version-intranet-api-gateway-prod--> | ![Deploy](https://github.com/sistemasCaren/intranet-api-gateway/actions/workflows/deploy.yml/badge.svg?branch=develop)<br/><!--version-intranet-api-gateway-qa-->`1.0.3`<!--/version-intranet-api-gateway-qa--> |
 
 ### ⚙️ Microservicios
